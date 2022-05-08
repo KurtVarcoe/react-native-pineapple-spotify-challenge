@@ -18,8 +18,8 @@ export default Header = () => {
 const styles = StyleSheet.create({
     artistName: {
       color: 'white',
-      fontSize: 55,
-      // fontFamily: 'Circular-Medium',
+      fontSize: 50,
+      fontFamily: 'CircularStd-Bold',
     },
     backIconContainer: {
       position: 'absolute',
