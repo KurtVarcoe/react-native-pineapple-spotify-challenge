@@ -20,6 +20,7 @@ const styles = StyleSheet.create({
       color: 'white',
       fontSize: 50,
       fontFamily: 'CircularStd-Bold',
+      fontWeight: 'bold'
     },
     backIconContainer: {
       position: 'absolute',
