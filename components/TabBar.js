@@ -27,7 +27,6 @@ export default TabBar = () => {
       screenOptions={() => ({
         headerShown: false,
         tabBarStyle: {
-          height: 75,
           backgroundColor: '#282828',
           position: 'absolute',
           borderTopWidth: 0,
